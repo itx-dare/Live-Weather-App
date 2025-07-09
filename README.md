@@ -23,6 +23,7 @@ A sleek Flutter weather application that provides accurate, real-time weather in
 **Actual app looks even better! 😃**
 
 
+<kbd>
   <img src="https://github.com/itx-dare/Live-Weather-App/blob/main/assets/ScreenShots/ss-1.jpg" width=30% height=30%/>
   <img src="https://github.com/itx-dare/Live-Weather-App/blob/main/assets/ScreenShots/ss-2.jpg" width=30% height=30%/>
   <img src="https://github.com/itx-dare/Live-Weather-App/blob/main/assets/ScreenShots/ss-3.jpg" width=30% height=30%/>
@@ -30,6 +31,7 @@ A sleek Flutter weather application that provides accurate, real-time weather in
   <img src="https://github.com/itx-dare/Live-Weather-App/blob/main/assets/ScreenShots/ss-5.jpg" width=30% height=30%/>
   <img src="https://github.com/itx-dare/Live-Weather-App/blob/main/assets/ScreenShots/ss-6.jpg" width=30% height=30%/>
   <img src="https://github.com/itx-dare/Live-Weather-App/blob/main/assets/ScreenShots/ss-7.jpg" width=30% height=30%/>
+</kbd>
 
 
 ---
